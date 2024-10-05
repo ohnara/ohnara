@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="(https://giphy.com/gifs/studio-ghibli-hayao-miyazaki-oje6kPRIef6Gk)"  />
+<img align="right" height="150" src="https://giphy.com/gifs/studio-ghibli-hayao-miyazaki-oje6kPRIef6Gk"  />
 
 ###
 
