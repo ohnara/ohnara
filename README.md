@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ffire-force--338332990768693535%2F&psig=AOvVaw1Wt4yxJuPhtiKoRPx7BP65&ust=1728250732735000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNi51uuZ-IgDFQAAAAAdAAAAABAI)"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ffire-force--338332990768693535%2F&psig=AOvVaw1Wt4yxJuPhtiKoRPx7BP65&ust=1728250732735000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNi51uuZ-IgDFQAAAAAdAAAAABAI"  />
 
 ###
 
