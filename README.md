@@ -31,7 +31,7 @@
 
 Hi, I'm **Dre**.
 
-I'm **21**, a **father**, and currently building my skills in web development through JavaScript, Scrimba, and real projects.
+I'm **21**, a **husband** and a **father**, and currently building my skills in web development through JavaScript, Scrimba, and real projects.
 
 Right now, I'm focused on getting better at **JavaScript** by building projects, practising consistently.
 
