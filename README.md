@@ -146,23 +146,6 @@ Backend            ⏳ Later
 - **Personal Notes App**  
   A simple note-taking app for saving coding notes, searching topics, and keeping track of what I’m learning.
 
-### Extra Project Ideas
-
-- **Pet Bot Web App**  
-  A virtual pet that reacts to clicks, moods, coins, upgrades, and viewer interactions.
-
-- **Mini Game Arcade**  
-  A collection of small JavaScript games like a reaction timer, memory card game, typing challenge, quiz game, and clicker game.
-
-- **Coding Progress Tracker**  
-  A dashboard to track Scrimba progress, projects completed, daily practice, GitHub commits, and learning streaks.
-
-- **Streamer Overlay Builder**  
-  A tool for creating simple stream overlays, alert boxes, animated widgets, and custom panels.
-
-- **Client Website Templates**  
-  A set of landing pages for small businesses like barbers, cleaners, tradesmen, gyms, restaurants, and creators.
-
 ---
 
 ## 🏆 GitHub Trophies
