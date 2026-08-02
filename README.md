@@ -108,24 +108,3 @@ An upcoming browser-based game engine focused on building and running 2D games d
   A simple note-taking app for saving coding notes, searching topics, and keeping track of what I’m learning.
 
 ---
-
-<br />
-<br />
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frvrdre&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Dre's top languages"
-/>
-
-</div>
-
-## 🗓️ Current Focus
-
-```txt
-Main focus: JavaScript
-Learning platform: MDN Docs
-Current goal: Build projects, understand the code, and improve through practice
-Long-term goal: Become a job-ready frontend / full-stack developer
-```
-
----
