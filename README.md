@@ -63,18 +63,6 @@ My goal is to become confident enough to build clean, useful websites and apps o
 
 </div>
 
-### Tools I Use
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/VS_Code-74c7ec?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Git-fab387?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/npm-f38ba8?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-<img src="https://img.shields.io/badge/Vite-cba6f7?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Scrimba-cba6f7?style=for-the-badge&logo=scrimba&logoColor=white" alt="Scrimba" />
-
-</div>
 
 ### Learning Next
 
