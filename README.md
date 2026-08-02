@@ -58,8 +58,6 @@ My goal is to become confident enough to build clean, useful websites and apps o
 <img src="https://img.shields.io/badge/HTML5-f38ba8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS3-89b4fa?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/JavaScript-f9e2af?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-<img src="https://img.shields.io/badge/DOM-94e2d5?style=for-the-badge&logo=javascript&logoColor=000" alt="DOM" />
-<img src="https://img.shields.io/badge/Responsive_Design-a6e3a1?style=for-the-badge&logo=css3&logoColor=000" alt="Responsive Design" />
 
 </div>
 
@@ -72,7 +70,6 @@ My goal is to become confident enough to build clean, useful websites and apps o
 <img src="https://img.shields.io/badge/TypeScript-74c7ec?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-94e2d5?style=for-the-badge&logo=tailwindcss&logoColor=000" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Node.js-a6e3a1?style=for-the-badge&logo=nodedotjs&logoColor=000" alt="Node.js" />
-<img src="https://img.shields.io/badge/APIs-f9e2af?style=for-the-badge&logo=postman&logoColor=000" alt="APIs" />
 
 </div>
 
