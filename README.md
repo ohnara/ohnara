@@ -39,28 +39,6 @@ My goal is to become confident enough to build clean, useful websites and apps o
 
 ---
 
-## 🧠 Current Learning Profile
-
-```javascript
-const Dre = {
-  age: 21,
-  role: "Aspiring JavaScript Developer",
-  currentlyLearning: ["HTML", "CSS", "JavaScript", "React", "TypeScript"],
-  currentCourse: "Scrimba",
-  tools: ["VS Code", "Git", "GitHub", "Vite", "npm"],
-  focus: [
-    "Building real projects",
-    "Improving JavaScript confidence",
-    "Writing cleaner code",
-    "Understanding how code works",
-    "Becoming job-ready"
-  ],
-  goal: "Become a confident frontend developer and later move into full-stack development",
-};
-```
-
----
-
 ## 🎯 Current Goals
 
 - Improve my JavaScript skills through regular practice
@@ -118,11 +96,11 @@ const Dre = {
 HTML basics        ✅ Practising
 CSS layouts        ✅ Practising
 JavaScript basics  ✅ Practising
-DOM manipulation   ✅ Learning
-APIs               🔄 Learning soon
+DOM manipulation   ✅ Practising
+APIs               🔄 Learning currently
 React              ⏳ Next
 TypeScript         ⏳ Next
-Backend            ⏳ Later
+Backend            ⏳ Next
 ```
 
 ---
@@ -131,41 +109,20 @@ Backend            ⏳ Later
 
 ### Main Projects
 
-- **3D Developer Portfolio**  
-  A modern portfolio with project sections, smooth animations, 3D elements, and a clean dark design.
+- **Species Atlas**  
+  This website will use a public api which will allow the users to search information on all types of species of animals,
+  fungus and their last sightings with a simple search.
 
 - **Invoice App for Small Businesses**  
   A web app for creating customers, adding jobs, generating invoices, tracking paid/unpaid work, and managing simple business admin.
 
-- **Interactive Stream Bot for Twitch and TikTok Live**  
-  A chat-powered tool where viewers can trigger sounds, animations, polls, mini-games, pet interactions, and stream overlays.
-
-- **JavaScript Interactive Cheat Sheet**  
-  A searchable HTML, CSS, and JavaScript reference site with examples, filters, explanations, and useful code snippets.
+- **Game engine**  
+An upcoming browser-based game engine focused on building and running 2D games directly in the browser. It will include a visual editor, scene and object management, reusable components, basic physics, input controls and a separate runtime for playing finished projects.
 
 - **Personal Notes App**  
   A simple note-taking app for saving coding notes, searching topics, and keeping track of what I’m learning.
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=frvrdre&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=frvrdre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-  alt="Dre's GitHub stats"
-/>
 
 <br />
 <br />
@@ -181,7 +138,7 @@ Backend            ⏳ Later
 
 ```txt
 Main focus: JavaScript
-Learning platform: Scrimba
+Learning platform: MDN Docs
 Current goal: Build projects, understand the code, and improve through practice
 Long-term goal: Become a job-ready frontend / full-stack developer
 ```
